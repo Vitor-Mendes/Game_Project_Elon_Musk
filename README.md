@@ -16,6 +16,7 @@ Autores: Vitor Augusto Mendes Monteiro e Rafael Romualdo Schittini
   `./a.out`
 
 - Componentes de execução: 
+
   º Na pasta do jogo existe um *makefile* para instalar as respectivas bibliotecas.
   º As músicas presentes no jogo são: Undertale - Megalovania
                                       Ambient-Space-Music-Shooting-Stars                             
