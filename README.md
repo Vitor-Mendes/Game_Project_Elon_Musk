@@ -23,4 +23,4 @@ Autores: Vitor Augusto Mendes Monteiro e Rafael Romualdo Schittini
   º A arte foi desenhada em Pixel Art pelo Rafael Schittini com o programa Aseprite.
   
   
-- Link para um vídeo do jogo: Game: [Project Elon Musk](https://www.youtube.com/).
+- Link para um vídeo do jogo: [Game: Project Elon Musk](https://www.youtube.com/).
