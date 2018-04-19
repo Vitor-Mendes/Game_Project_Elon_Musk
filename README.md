@@ -17,7 +17,7 @@ Autores: Vitor Augusto Mendes Monteiro e Rafael Romualdo Schittini
 
 - Componentes de execução:           
   º Na pasta do jogo existe um *makefile* para instalar as respectivas bibliotecas.       
-  º As músicas presentes no jogo são: Undertale - Megalovania                                                                                                             Ambient-Space-Music-Shooting-Stars                             
+  º As músicas presentes no jogo são:  Undertale - Megalovania / Ambient-Space-Music-Shooting-Stars                             
   º A arte foi desenhada em Pixel Art pelo Rafael Schittini com o programa Aseprite.
   
   
